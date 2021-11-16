@@ -1,4 +1,0 @@
-parameters:
-    stevotvr.flair.trigger_names:
-        - 'post_count'
-        - 'membership_days'
