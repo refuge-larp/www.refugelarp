@@ -1,0 +1,204 @@
+﻿<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<section class="section-portfolio-masonary portfolio-page">
+        
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="portfolio2-filter">
+                        <div class="portfolio-filter">
+                            <button class="btn btn-primary active" data-filter="*">All</button>
+                            <button class="btn btn-primary" data-filter=".filter1">People</button>
+                            <button class="btn btn-primary" data-filter=".filter2">Places</button>
+                            <button class="btn btn-primary" data-filter=".filter3">Things</button>
+                            <button class="btn btn-primary" data-filter=".filter4">Memories</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row portfolio2">
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-3 single_portfolio_item filter1 filter3">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio1.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio1.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 1">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-6 single_portfolio_item filter2">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio2.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio2.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 2">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-3 single_portfolio_item filter2 filter4">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio3.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio3.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 4">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-3 single_portfolio_item filter1 filter4">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio4.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio4.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 5">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-3 single_portfolio_item filter2">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio5.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio5.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 6">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-6 single_portfolio_item filter3">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio6.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio6.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 7">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-6 single_portfolio_item filter1 filter3">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio1.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio1.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 1">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-3 single_portfolio_item filter2">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio2.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio2.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 2">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-3 single_portfolio_item filter2 filter4">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio3.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio3.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 4">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-3 single_portfolio_item filter1 filter4">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio4.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio4.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 5">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-3 single_portfolio_item filter2">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio5.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio5.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 6">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Portfolio Area -->
+                <div class="col-12 col-sm-6 col-lg-6 single_portfolio_item filter3">
+                    <!-- Portfolio Thumbnail -->
+                    <div class="portfolio-thumbnail bg-img" style="background-image: url('images/portfolio6.jpg');"></div>
+                    <!-- Portfolio Hover Text -->
+                    <div class="portfolio-hover-overlay">
+                        <a href="images/portfolio6.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 7">
+                            <div class="port-hover-text">
+                                <h3>Image Title</h3>
+                                <h5>short description</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+    </section>
+

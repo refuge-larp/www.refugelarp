@@ -1,0 +1,55 @@
+﻿/* -----------------------------------------------------------
+:: Library / components / counters / clients / clients  
+----------------------------------------------------------- */
+.counter1-info {
+	width: 100%;
+	float: left;
+	text-align: center;
+	position: relative;
+	border-right:1px solid rgba(255,255,255,0.25);
+}
+.counter1 {
+	float: left;
+	width: 100%;
+	margin-bottom: 21px;
+	margin-top: 20px;
+	line-height: 1.1;
+}
+.counter1-num {
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+
+}
+.counter1-label {
+	font-size: 16px;
+	text-align: center;
+
+}
+.counter1-icon {
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top:15px;
+	border-top:1px solid rgba(255,255,255,0.25);
+		border-bottom:1px solid rgba(255,255,255,0.25);
+		padding:15px;
+		background:rgba(0,0,0,0.05);
+
+}
+.counter1-info div.heading-style1-light-md {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	left: 0;
+}
+@media (min-width: 600px) {
+.counter1-info {
+	width: 25%;
+	float: left;
+}
+}
+
+.counter1 .counter1-info:last-of-type {
+       border:0px;
+ 
+}

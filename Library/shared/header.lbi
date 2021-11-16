@@ -1,0 +1,124 @@
+﻿
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<nav class="navbar navbar-transparent navbar-color-on-scroll fixed-top navbar-expand-lg" color-on-scroll="100" id="sectionsNav"><div class="container-fluid">
+
+<!-- website name -->
+<div class="navbar-translate">
+
+	<a class="navbar-brand" href="#">
+	
+    <img class="img-fluid" src="../../Site/themed-images/logo/Refuge_base_sml.png" alt="Refuge Larp"> </a>
+	
+	<button aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" type="button">
+	<span class="sr-only">Toggle navigation</span>
+	<span class="navbar-toggler-icon"></span>
+	<span class="navbar-toggler-icon"></span>
+	<span class="navbar-toggler-icon"></span>
+	</button>
+	
+</div>
+<!-- website name -->
+
+    
+    
+<!-- main menu-->      
+<div class="collapse navbar-collapse">
+       
+<ul class="navbar-nav ml-auto">
+<!-- single menu button -->	
+	<li class="nav-item">
+		<a class="nav-link" href="../../index.html"> <i class="fas fa-home"></i> Home </a>
+	</li>
+<!-- single menu button -->
+    <li class="nav-item">
+      <a class="nav-link" href="https://db.refugelarp.org" title="Database" target="_blank"> <i class="fas fa-chess-rook"></i> Register</a></li>
+<!-- single menu button -->
+<li class="nav-item">
+        <a class="nav-link" href="https://www.refugelarp.org/forum" title="Forums" target="_blank"> <i class="fas fa-feather-alt"></i> Forums</a></li>
+	<li class="nav-item">
+<!-- single menu button -->
+		<a class="nav-link" href="../../start_a_chapter.html" title="Own A Chapter"> <i class="fas fa-pen-fancy"></i> Start A Chapter </a>
+	</li>
+<!-- menu with dropdown -->
+	<li class="dropdown nav-item">
+	  <a class="dropdown-toggle nav-link" data-toggle="dropdown" href="#"> <i class="fas fa-book"></i> Rulebooks</a>
+	  <div class="dropdown-menu"> <a href="../../Site/pdf/RefugeRulebook_v1.0.5.pdf" title="Refuge Rulebook" target="_blank" class="dropdown-item"> Refuge LARP Rulebook</a>
+<a href="../../Site/pdf/Refuge_LARP_v1.0.5_Large_Print.pdf" title="Refuge Rulebook Large Print" target="_blank" class="dropdown-item"> Refuge LARP Rulebook Large Print</a>
+<a href="../../player_information.html#species" title="Species" target="_blank" class="dropdown-item">Species of Refuge</a>
+<a href="../../Site/pdf/CoC-AntiHarassment.pdf" title="PG" target="_blank" class="dropdown-item"> Refuge LARP Code of Conduct</a>
+<a href="../../Site/pdf/Refuge_Inc_Bylaws_2020.pdf" title="PG" target="_blank" class="dropdown-item"> Refuge LARP By-Laws</a>
+<a href="../../Site/pdf/Refuge_Cosmology.pdf" title="Cosmology" target="_blank" class="dropdown-item">Refuge Cosmology</a>
+<a href="../../Site/pdf/Refuge_Rituals_Rulebook_1.0.pdf" title="Cosmology" target="_blank" class="dropdown-item">Refuge Ritual Book</a>
+<a href="../../Site/pdf/Refuge_Point_Item_Request_Policy.pdf" title="Refuge Points Buys" target="_blank" class="dropdown-item">Refuge Item Purchase</a>
+</div>
+	  </li>
+<!-- menu with dropdown -->
+	<li class="dropdown nav-item">
+	  <a class="dropdown-toggle nav-link" data-toggle="dropdown" href="#">  <i class="fas fa-calendar-alt"></i> Events </a>
+	  <div class="dropdown-menu">
+	    <a class="dropdown-item" href="../../events.html#calendar"> Google Calendar</a><a class="dropdown-item" href="../../events.html#weekend"> Full Weekend</a><a class="dropdown-item" href="../../events.html#tavern"> Tavern Night</a><a class="dropdown-item" href="../../events.html#dungeon"> Virtual Event</a>
+	    
+	    </div>
+	  </li>
+<!-- menu with dropdown -->
+
+
+<!-- menu with dropdown -->
+	<li class="dropdown nav-item">
+		<a class="dropdown-toggle nav-link" data-toggle="dropdown" href="#">  <i class="fas fa-book-open"></i> New Player Info</a>
+		<div class="dropdown-menu">
+			<a class="dropdown-item" href="../../player_information.html#monster">Be A Monster</a>
+			<a class="dropdown-item" href="../../player_information.html#hero">Be a Hero</a>
+			<a class="dropdown-item" href="../../first_event.htm#first">Your First Event</a>
+			<a class="dropdown-item" href="../../first_event.htm#camping">Camping 101</a>
+		  <a class="dropdown-item" href="../../policies.html">Polices &amp; Expectations</a></div>
+	</li>
+<!-- menu with dropdown -->
+
+<!-- menu with dropdown -->
+	<li class="dropdown nav-item">
+		<a class="dropdown-toggle nav-link" data-toggle="dropdown" href="#">  <i class="fas fa-atlas"></i> Our Chapters</a>
+		<div class="dropdown-menu">
+		  <a href="https://www.refugelarpboise.com" target="new" class="dropdown-item">Boise</a>
+          <a href="https://www.refugelarpcalgary.ca" target="new" class="dropdown-item">Calgary</a>
+		  <a href="https://www.refugelarpdenver.com" target="new" class="dropdown-item">Denver</a>
+          <a href="https://www.refugelarpedmonton.ca" target="new" class="dropdown-item">Edmonton</a>
+          <a href="https://www.refugelarpportland.com" target="new" class="dropdown-item">Portland</a>
+          <a href="https://www.refugelarpsaltlake.com" target="new" class="dropdown-item">Salt Lake</a>
+                    <a href="https://www.refugelarpsanfransico.com" target="new" class="dropdown-item">San Francisco</a>
+          <a href="https://www.refugelarpseattle.com" target="new" class="dropdown-item">Seattle</a>
+          <a href="https://www.refugelarpwichita.com" target="new" class="dropdown-item">Wichita</a>
+	</li>
+<!-- menu with dropdown -->
+
+
+<!-- numo horizontal links -->
+<!-- numo drop-down login-box --> 
+
+<!-- social icon -->	
+	<!-- social icon -->	
+	<li class="nav-item">
+		<a class="nav-link" data-original-title="Join us on Discord" data-placement="bottom" href="https://discord.gg/p3jsQ2r" rel="tooltip" target="_blank" title="">
+			<i class="fab fa-discord"></i>
+		</a>
+	</li>
+<!-- social icon -->	
+
+<!-- social icon -->	
+	<li class="nav-item">
+		<a class="nav-link" data-original-title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com/groups/refugelarp/" rel="tooltip" target="_blank" title="">
+			<i class="fab fa-facebook-square"></i>
+		</a>
+	</li>
+<!-- social icon -->	
+</ul>        
+      </div>
+<!-- main menu-->    
+          
+    </div>
+  </nav>
+  
+  
+

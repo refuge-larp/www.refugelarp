@@ -1,0 +1,107 @@
+﻿<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <!--==========================
+      Our Portfolio Section
+    ============================-->
+    <section id="portfolio" class="wow fadeInUp portfolio-simple">
+      
+
+      <div class="container-fluid">
+        <div class="row no-gutters">
+
+          <div class="col-lg-3 col-md-4">
+            <div class="portfolio-item wow fadeInUp">
+              <a href="images/portfolio-simple1.jpg" class="portfolio-popup">
+                <img src="images/portfolio-simple1.jpg" alt="">
+                <div class="portfolio-overlay">
+                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 1</h2></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="portfolio-item wow fadeInUp">
+              <a href="images/portfolio-simple2.jpg" class="portfolio-popup">
+                <img src="images/portfolio-simple2.jpg" alt="">
+                <div class="portfolio-overlay">
+                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 2</h2></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="portfolio-item wow fadeInUp">
+              <a href="images/portfolio-simple3.jpg" class="portfolio-popup">
+                <img src="images/portfolio-simple3.jpg" alt="">
+                <div class="portfolio-overlay">
+                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 3</h2></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="portfolio-item wow fadeInUp">
+              <a href="images/portfolio-simple4.jpg" class="portfolio-popup">
+                <img src="images/portfolio-simple4.jpg" alt="">
+                <div class="portfolio-overlay">
+                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 4</h2></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="portfolio-item wow fadeInUp">
+              <a href="images/portfolio-simple5.jpg" class="portfolio-popup">
+                <img src="images/portfolio-simple5.jpg" alt="">
+                <div class="portfolio-overlay">
+                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 5</h2></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="portfolio-item wow fadeInUp">
+              <a href="images/portfolio-simple6.jpg" class="portfolio-popup">
+                <img src="images/portfolio-simple6.jpg" alt="">
+                <div class="portfolio-overlay">
+                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 6</h2></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="portfolio-item wow fadeInUp">
+              <a href="images/portfolio-simple7.jpg" class="portfolio-popup">
+                <img src="images/portfolio-simple7.jpg" alt="">
+                <div class="portfolio-overlay">
+                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 7</h2></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="portfolio-item wow fadeInUp">
+              <a href="images/portfolio-simple8.jpg" class="portfolio-popup">
+                <img src="images/portfolio-simple8.jpg" alt="">
+                <div class="portfolio-overlay">
+                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 8</h2></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #portfolio -->
+
+
+
+

@@ -1,0 +1,121 @@
+@media (min-width:1680px) {
+#bootstrap-slider {
+	min-height: calc(100vh-200px);
+	margin-bottom: -200px;
+}
+#bootstrap-slider.carousel .carousel-indicators {
+	bottom: 200px;
+	top: auto;
+}
+}
+.layer-bg {
+	display: none;
+}
+@media (min-width:1440px) {
+.layer-bg {
+	display: block;
+}
+}
+#bootstrap-slider .carousel-caption {
+	position: relative;
+	right: 0%;
+	left: 0%;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: center;
+	color: #343b43;
+	width: 100%;
+	border-top: 10px solid #44742C;
+}
+@media(min-width:1200px) {
+#bootstrap-slider .carousel-caption {
+	position: absolute;
+	bottom: auto;
+	top: 40%;
+	transform: translateY(-40%);
+	right:5%;
+	left: auto;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: right;
+	color: #343b43;
+	width: 45%;
+	border-top: 0px solid #44742C;
+	padding-left: 0%;
+	padding-right:0%;
+
+}
+}
+@media(min-width:1440px) {
+#bootstrap-slider .carousel-caption {
+	position: absolute;
+	bottom: auto;
+	top: 40%;
+	transform: translateY(-40%);
+	right:10%;
+	left: auto;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: right;
+	color: #343b43;
+	width: 40%;
+}
+}
+
+#bootstrap-slider .carousel-content h2 {
+	font-size: 1.2rem;
+	line-height: 1.0em;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	color: #343b43;
+	position: relative;
+}
+#bootstrap-slider .carousel-content p {
+	position: relative;
+}
+#bootstrap-slider .carousel-content a.btn {
+	margin-top: 30px;
+}
+#bootstrap-slider .mask.rgba-black-slight {
+	background: rgba(255,255,255,0);
+	background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 52%, rgba(255,255,255,1) 77%, rgba(255,255,255,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,0)), color-stop(52%, rgba(255,255,255,0)), color-stop(77%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,1)));
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 52%, rgba(255,255,255,1) 77%, rgba(255,255,255,1) 100%);
+	background: -o-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 52%, rgba(255,255,255,1) 77%, rgba(255,255,255,1) 100%);
+	background: -ms-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 52%, rgba(255,255,255,1) 77%, rgba(255,255,255,1) 100%);
+	background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 52%, rgba(255,255,255,1) 77%, rgba(255,255,255,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1 );
+}
+@media(min-width:769px) {
+#bootstrap-slider .carousel-content h2 {
+	font-size: 2.75rem;
+	line-height: 1.0em;
+}
+#bootstrap-slider.carousel .carousel-indicators li {
+	margin: 11px 2px;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.0), 0 3px 1px -2px rgba(0, 0, 0, 0.0), 0 1px 5px 0 rgba(0, 0, 0, 0.0);
+	border: 1px solid rgba(255,255,255,0.0);
+}
+#bootstrap-slider.carousel .carousel-indicators li.active {
+	border: 1px solid #44742C;
+}
+#bootstrap-slider.carousel .carousel-indicators .active {
+	transform: scale(1.0);
+	background: rgba(255,255,255,0.99);
+	box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.0), 0 1px 10px 0 rgba(0, 0, 0, 0.0), 0 2px 4px -1px rgba(0, 0, 0, 0.0);
+}
+#bootstrap-slider {
+}
+}
+.layer-bg {
+}
+.bs-slider-bg-layer1, .bs-slider-bg-layer2, .bs-slider-bg-layer3, .bs-slider-bg-layer4, .bs-slider-bg-layer5, .bs-slider-bg-layer6, .bs-slider-bg-layer7 {
+	position: absolute;
+	top: -100px;
+	right: -100px;
+}

@@ -1,0 +1,42 @@
+﻿
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+          <footer class="footer footer-black footer-big">
+            <div class="container">
+              <div class="content">
+                <div class="row">
+                  <div class="col-md-4">
+                    <h5>About Us</h5>
+                    <p>Refuge LARP is a &quot;boffer&quot; sytle, light contact, high Fantasy role-playing organization with chapters in the USA and Canada.</p>
+                  </div>
+                  <div class="col-md-4">
+                    <h5>Social Feed</h5>
+ 				 <a class="btn btn-link btn-just-icon btn-white" href="https://twitter.com/refugelarp" target="_blank"><i class="border-design1 fab fa-twitter"></i><p>Follow along on Twitter</p></a>
+                <a class="btn btn-link btn-just-icon btn-white" href="https://www.facebook.com/groups/refugelarp/" target="_blank"><i class="border-design2 fab fa-facebook-square"></i><p>Join us on Facebook</p></a>
+                <a class="btn btn-link btn-just-icon btn-white" href="https://www.youtube.com/channel/UChGQLhbmaHoTk6qyJrfpaYA" target="_blank"><i class="border-design1 fab fa-youtube"></i><p>Watch our Videos on Youtube</p></a>
+                <a class="btn btn-link btn-just-icon btn-white" href="https://www.instagram.com/refugelarp/" target="_blank"><i class="border-design2 fab fa-instagram"></i><p>Check our pics out on Instagram</p></a>
+                <a class="btn btn-link btn-just-icon btn-white" href="https://discord.gg/p3jsQ2r" target="_blank"><i class="border-design2 fab fa-discord"></i><p>Chat with us on Discord</p></a>
+                  </div>
+                 </div>
+                </div>
+              </div>
+              <hr>
+              <ul class="float-left">
+                <li>
+                    <a href="../../index.htm">Home</a>
+                </li>
+                 <li>
+                    <a href="../../contact.htm">Contact</a>
+                </li>
+              </ul>
+              <div class="copyright float-right">
+                Copyright &#xA9;
+                <script>
+                  document.write(new Date().getFullYear())
+                </script> Copyright by <a href="../../index.htm" target="_blank">LAIRS INC</a>
+              </div>
+            </div>
+          </footer>
+
+
+
