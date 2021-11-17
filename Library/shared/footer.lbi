@@ -23,20 +23,17 @@
               <hr>
               <ul class="float-left">
                 <li>
-                    <a href="../../index.htm">Home</a>
+                    <a href="../../index.html">Home</a>
                 </li>
                  <li>
-                    <a href="../../contact.htm">Contact</a>
+                    <a href="../../contact.html">Contact</a>
                 </li>
               </ul>
               <div class="copyright float-right">
                 Copyright &#xA9;
                 <script>
                   document.write(new Date().getFullYear())
-                </script> Copyright by <a href="../../index.htm" target="_blank">LAIRS INC</a>
+                </script> Copyright by <a href="../../index.html" target="_blank">LAIRS INC</a>
               </div>
             </div>
           </footer>
-
-
-

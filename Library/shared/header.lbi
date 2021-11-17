@@ -8,26 +8,26 @@
 <div class="navbar-translate">
 
 	<a class="navbar-brand" href="#">
-	
+
     <img class="img-fluid" src="../../Site/themed-images/logo/Refuge_base_sml.png" alt="Refuge Larp"> </a>
-	
+
 	<button aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" type="button">
 	<span class="sr-only">Toggle navigation</span>
 	<span class="navbar-toggler-icon"></span>
 	<span class="navbar-toggler-icon"></span>
 	<span class="navbar-toggler-icon"></span>
 	</button>
-	
+
 </div>
 <!-- website name -->
 
-    
-    
-<!-- main menu-->      
+
+
+<!-- main menu-->
 <div class="collapse navbar-collapse">
-       
+
 <ul class="navbar-nav ml-auto">
-<!-- single menu button -->	
+<!-- single menu button -->
 	<li class="nav-item">
 		<a class="nav-link" href="../../index.html"> <i class="fas fa-home"></i> Home </a>
 	</li>
@@ -58,8 +58,8 @@
 	<li class="dropdown nav-item">
 	  <a class="dropdown-toggle nav-link" data-toggle="dropdown" href="#">  <i class="fas fa-calendar-alt"></i> Events </a>
 	  <div class="dropdown-menu">
-	    <a class="dropdown-item" href="../../events.html#calendar"> Google Calendar</a><a class="dropdown-item" href="../../events.html#weekend"> Full Weekend</a><a class="dropdown-item" href="../../events.html#tavern"> Tavern Night</a><a class="dropdown-item" href="../../events.html#dungeon"> Virtual Event</a>
-	    
+	    <a class="dropdown-item" href="../../events.html#calendar"> Calendar</a><a class="dropdown-item" href="../../events.html#weekend"> Full Weekend</a><a class="dropdown-item" href="../../events.html#tavern"> Tavern Night</a><a class="dropdown-item" href="../../events.html#dungeon"> Virtual Event</a>
+
 	    </div>
 	  </li>
 <!-- menu with dropdown -->
@@ -71,8 +71,8 @@
 		<div class="dropdown-menu">
 			<a class="dropdown-item" href="../../player_information.html#monster">Be A Monster</a>
 			<a class="dropdown-item" href="../../player_information.html#hero">Be a Hero</a>
-			<a class="dropdown-item" href="../../first_event.htm#first">Your First Event</a>
-			<a class="dropdown-item" href="../../first_event.htm#camping">Camping 101</a>
+			<a class="dropdown-item" href="../../first_event.html#first">Your First Event</a>
+			<a class="dropdown-item" href="../../first_event.html#camping">Camping 101</a>
 		  <a class="dropdown-item" href="../../policies.html">Polices &amp; Expectations</a></div>
 	</li>
 <!-- menu with dropdown -->
@@ -83,7 +83,6 @@
 		<div class="dropdown-menu">
 		  <a href="https://www.refugelarpboise.com" target="new" class="dropdown-item">Boise</a>
           <a href="https://www.refugelarpcalgary.ca" target="new" class="dropdown-item">Calgary</a>
-		  <a href="https://www.refugelarpdenver.com" target="new" class="dropdown-item">Denver</a>
           <a href="https://www.refugelarpedmonton.ca" target="new" class="dropdown-item">Edmonton</a>
           <a href="https://www.refugelarpportland.com" target="new" class="dropdown-item">Portland</a>
           <a href="https://www.refugelarpsaltlake.com" target="new" class="dropdown-item">Salt Lake</a>
@@ -95,30 +94,27 @@
 
 
 <!-- numo horizontal links -->
-<!-- numo drop-down login-box --> 
+<!-- numo drop-down login-box -->
 
-<!-- social icon -->	
-	<!-- social icon -->	
+<!-- social icon -->
+	<!-- social icon -->
 	<li class="nav-item">
 		<a class="nav-link" data-original-title="Join us on Discord" data-placement="bottom" href="https://discord.gg/p3jsQ2r" rel="tooltip" target="_blank" title="">
 			<i class="fab fa-discord"></i>
 		</a>
 	</li>
-<!-- social icon -->	
+<!-- social icon -->
 
-<!-- social icon -->	
+<!-- social icon -->
 	<li class="nav-item">
 		<a class="nav-link" data-original-title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com/groups/refugelarp/" rel="tooltip" target="_blank" title="">
 			<i class="fab fa-facebook-square"></i>
 		</a>
 	</li>
-<!-- social icon -->	
-</ul>        
+<!-- social icon -->
+</ul>
       </div>
-<!-- main menu-->    
-          
+<!-- main menu-->
+
     </div>
   </nav>
-  
-  
-

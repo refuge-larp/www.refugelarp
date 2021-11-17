@@ -20,12 +20,12 @@
 				<div class="mask rgba-black-slight">
 				</div>
 			</div>
-			
-			
+
+
 			<!-- caption -->
 			<div class="carousel-caption">
                     <div class="carousel-content">
-                    
+
                      <div class="layer-bg">
                      <img class="bs-slider-bg-layer1 delay-150" data-animation="animated zoomIn" src="../../../Site/graphics/layer1.png">
                      <img class="bs-slider-bg-layer2 delay-175" data-animation="animated zoomIn" src="../../../Site/graphics/layer2.png">
@@ -36,30 +36,30 @@
                      <img class="bs-slider-bg-layer7 delay-300" data-animation="animated zoomIn" src="../../../Site/graphics/layer7.png">
                      </div>
 
-                
+
                         <h2 class="title delay-25 " data-animation="animated fadeInRight">
                            Welcome to your Refuge!
                       </h2>
-                
+
                         <p class="bs-slider-desc1 delay-50" data-animation="animated fadeInLeft">
-                            Glad you made it! Come on over, learn about LARP and take a break from the "real world". Everyone is welcome to seek Refuge in our Fantasy World. Whether you are new to LARP, new to role-playing in general, or just looking to try a new LARP, we have lots of opportunities for you!  
+                            Glad you made it! Come on over, learn about LARP and take a break from the "real world". Everyone is welcome to seek Refuge in our Fantasy World. Whether you are new to LARP, new to role-playing in general, or just looking to try a new LARP, we have lots of opportunities for you!
                       </p>
-                
+
                         <p class="delay-75" data-animation="animated fadeInRight">
                            <a href="../../../player_information.html" class="btn btn-theme btn-raised btn-lg">Click to learn more <i class="far fa-arrow-alt-circle-right"></i></a>
                         </p>
-                        
-                
+
+
                     </div>
                 </div>
 			<!-- caption -->
-                
-                
-                
-                
-                
-                
-                
+
+
+
+
+
+
+
 		</div>
 		<div class="carousel-item">
 			<!--Mask color-->
@@ -68,13 +68,13 @@
 				<div class="mask rgba-black-slight">
 				</div>
 			</div>
-			
-			
-			
+
+
+
 			<!-- caption -->
 			<div class="carousel-caption">
                     <div class="carousel-content">
-                    
+
                      <div class="layer-bg">
                      <img class="bs-slider-bg-layer1 delay-150" data-animation="animated zoomIn" src="../../../Site/graphics/layer1.png">
                      <img class="bs-slider-bg-layer2 delay-175" data-animation="animated zoomIn" src="../../../Site/graphics/layer2.png">
@@ -85,27 +85,27 @@
                      <img class="bs-slider-bg-layer7 delay-300" data-animation="animated zoomIn" src="../../../Site/graphics/layer7.png">
                      </div>
 
-                
+
                         <h2 class="title delay-25 " data-animation="animated fadeInRight">
                            Join us on our Adventures!
                       </h2>
-                
+
                         <p class="bs-slider-desc1 delay-50" data-animation="animated fadeInLeft">
                             Your journey begins with many choices, be a Player Character, an Non-Player Character, become part of the Chapter staff of writers, propmasters, logistics and more. Check with your local chapter and ask all the questions!
                       </p>
-                
+
                         <p class="delay-75" data-animation="animated fadeInRight">
                            <a href="http://www.refugelarp.org/forum" target="new" class="btn btn-theme btn-raised btn-lg">Click to learn more <i class="far fa-arrow-alt-circle-right"></i></a>
                         </p>
-                        
-                
+
+
                     </div>
                 </div>
 			<!-- caption -->
-                
-                
-                
-                
+
+
+
+
 		</div>
 		<div class="carousel-item">
 			<!--Mask color-->
@@ -114,13 +114,13 @@
 				<div class="mask rgba-black-slight">
 				</div>
 			</div>
-			
-			
-			
+
+
+
 			<!-- caption -->
 			<div class="carousel-caption">
                     <div class="carousel-content">
-                    
+
                      <div class="layer-bg">
                      <img class="bs-slider-bg-layer1 delay-150" data-animation="animated zoomIn" src="../../../Site/graphics/layer1.png">
                      <img class="bs-slider-bg-layer2 delay-175" data-animation="animated zoomIn" src="../../../Site/graphics/layer2.png">
@@ -131,25 +131,25 @@
                      <img class="bs-slider-bg-layer7 delay-300" data-animation="animated zoomIn" src="../../../Site/graphics/layer7.png">
                      </div>
 
-                
+
                         <h2 class="title delay-25 " data-animation="animated fadeInRight">
                            Start Your own Chapter!
                       </h2>
-                
+
                         <p class="bs-slider-desc1 delay-50" data-animation="animated fadeInLeft">
                             We are always looking to expand our LARP network! We have chapters in both Canada and the USA. If this is something that intrigues you, please contact us through our forums, our Facebook group or our Discord Channel.
                       </p>
-                
+
                         <p class="delay-75" data-animation="animated fadeInRight">
-                           <a href="../../../contact.htm" target="_blank" class="btn btn-theme btn-raised btn-lg">Click to learn more <i class="far fa-arrow-alt-circle-right"></i></a>
+                           <a href="../../../contact.html" target="_blank" class="btn btn-theme btn-raised btn-lg">Click to learn more <i class="far fa-arrow-alt-circle-right"></i></a>
                         </p>
-                        
-                
+
+
                     </div>
                 </div>
 			<!-- caption -->
-                
-                
+
+
 		</div>
 	</div>
 	<!--/.Slides-->
@@ -162,5 +162,3 @@
 	<span class="sr-only">Next</span> </a>
 	<!--/.Controls--></div>
 <!--/.Carousel Wrapper-->
-
-
