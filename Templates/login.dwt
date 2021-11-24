@@ -240,19 +240,19 @@
 
     <!--   Core JS Files   -->
 
-    <script src="../Site/javascript/core/jquery.min.js" type="text/javascript"></script>
-    <script src="../Site/javascript/core/popper.min.js" type="text/javascript"></script>
-    <script src="../Site/javascript/core/bootstrap.min.js" type="text/javascript"></script>
-    <script src="../Site/javascript/core/jquery-migrate-3.0.1.js" type="text/javascript"></script>
-    <script src="../Site/javascript/plugins/moment.min.js"></script>
-    <script src="../Site/javascript/plugins/waypoints.min.js"></script>
-    <script src="../Site/javascript/plugins/owl.carousel.min.js"></script>
-    <script src="../Site/javascript/plugins/bootstrap-datetimepicker.js" type="text/javascript"></script>
-    <script src="../Site/javascript/plugins/jquery.sharrre.js" type="text/javascript"></script>
-    <script src="../Site/javascript/plugins/wow.min.js" type="text/javascript"></script>
-    <script src="../Site/javascript/components.js" type="text/javascript"></script>
+    <script src="../scripts/core/jquery.min.js" type="text/javascript"></script>
+    <script src="../scripts/core/popper.min.js" type="text/javascript"></script>
+    <script src="../scripts/core/bootstrap.min.js" type="text/javascript"></script>
+    <script src="../scripts/core/jquery-migrate-3.0.1.js" type="text/javascript"></script>
+    <script src="../scripts/plugins/moment.min.js"></script>
+    <script src="../scripts/plugins/waypoints.min.js"></script>
+    <script src="../scripts/plugins/owl.carousel.min.js"></script>
+    <script src="../scripts/plugins/bootstrap-datetimepicker.js" type="text/javascript"></script>
+    <script src="../scripts/plugins/jquery.sharrre.js" type="text/javascript"></script>
+    <script src="../scripts/plugins/wow.min.js" type="text/javascript"></script>
+    <script src="../scripts/components.js" type="text/javascript"></script>
 
-    <script src="../Site/javascript/theme-init.js" type="text/javascript"></script>
+    <script src="../scripts/theme-init.js" type="text/javascript"></script>
 
     <script async src="https://cse.google.com/cse.js?cx=004623144674018745587:u1yw2mb6irg"></script>
 
