@@ -27,13 +27,13 @@
                     <div class="carousel-content">
 
                      <div class="layer-bg">
-                     <img class="bs-slider-bg-layer1 delay-150" data-animation="animated zoomIn" src="../../../Site/graphics/layer1.png">
-                     <img class="bs-slider-bg-layer2 delay-175" data-animation="animated zoomIn" src="../../../Site/graphics/layer2.png">
-                     <img class="bs-slider-bg-layer3 delay-200" data-animation="animated zoomIn" src="../../../Site/graphics/layer3.png">
-                     <img class="bs-slider-bg-layer4 delay-225" data-animation="animated zoomIn" src="../../../Site/graphics/layer4.png">
-                     <img class="bs-slider-bg-layer5 delay-250" data-animation="animated zoomIn" src="../../../Site/graphics/layer5.png">
-                     <img class="bs-slider-bg-layer6 delay-275" data-animation="animated zoomIn" src="../../../Site/graphics/layer6.png">
-                     <img class="bs-slider-bg-layer7 delay-300" data-animation="animated zoomIn" src="../../../Site/graphics/layer7.png">
+                     <img class="bs-slider-bg-layer1 delay-150" data-animation="animated zoomIn" src="../../../images/graphics/layer1.png">
+                     <img class="bs-slider-bg-layer2 delay-175" data-animation="animated zoomIn" src="../../../images/graphics/layer2.png">
+                     <img class="bs-slider-bg-layer3 delay-200" data-animation="animated zoomIn" src="../../../images/graphics/layer3.png">
+                     <img class="bs-slider-bg-layer4 delay-225" data-animation="animated zoomIn" src="../../../images/graphics/layer4.png">
+                     <img class="bs-slider-bg-layer5 delay-250" data-animation="animated zoomIn" src="../../../images/graphics/layer5.png">
+                     <img class="bs-slider-bg-layer6 delay-275" data-animation="animated zoomIn" src="../../../images/graphics/layer6.png">
+                     <img class="bs-slider-bg-layer7 delay-300" data-animation="animated zoomIn" src="../../../images/graphics/layer7.png">
                      </div>
 
 
@@ -76,13 +76,13 @@
                     <div class="carousel-content">
 
                      <div class="layer-bg">
-                     <img class="bs-slider-bg-layer1 delay-150" data-animation="animated zoomIn" src="../../../Site/graphics/layer1.png">
-                     <img class="bs-slider-bg-layer2 delay-175" data-animation="animated zoomIn" src="../../../Site/graphics/layer2.png">
-                     <img class="bs-slider-bg-layer3 delay-200" data-animation="animated zoomIn" src="../../../Site/graphics/layer3.png">
-                     <img class="bs-slider-bg-layer4 delay-225" data-animation="animated zoomIn" src="../../../Site/graphics/layer4.png">
-                     <img class="bs-slider-bg-layer5 delay-250" data-animation="animated zoomIn" src="../../../Site/graphics/layer5.png">
-                     <img class="bs-slider-bg-layer6 delay-275" data-animation="animated zoomIn" src="../../../Site/graphics/layer6.png">
-                     <img class="bs-slider-bg-layer7 delay-300" data-animation="animated zoomIn" src="../../../Site/graphics/layer7.png">
+                     <img class="bs-slider-bg-layer1 delay-150" data-animation="animated zoomIn" src="../../../images/graphics/layer1.png">
+                     <img class="bs-slider-bg-layer2 delay-175" data-animation="animated zoomIn" src="../../../images/graphics/layer2.png">
+                     <img class="bs-slider-bg-layer3 delay-200" data-animation="animated zoomIn" src="../../../images/graphics/layer3.png">
+                     <img class="bs-slider-bg-layer4 delay-225" data-animation="animated zoomIn" src="../../../images/graphics/layer4.png">
+                     <img class="bs-slider-bg-layer5 delay-250" data-animation="animated zoomIn" src="../../../images/graphics/layer5.png">
+                     <img class="bs-slider-bg-layer6 delay-275" data-animation="animated zoomIn" src="../../../images/graphics/layer6.png">
+                     <img class="bs-slider-bg-layer7 delay-300" data-animation="animated zoomIn" src="../../../images/graphics/layer7.png">
                      </div>
 
 
@@ -122,13 +122,13 @@
                     <div class="carousel-content">
 
                      <div class="layer-bg">
-                     <img class="bs-slider-bg-layer1 delay-150" data-animation="animated zoomIn" src="../../../Site/graphics/layer1.png">
-                     <img class="bs-slider-bg-layer2 delay-175" data-animation="animated zoomIn" src="../../../Site/graphics/layer2.png">
-                     <img class="bs-slider-bg-layer3 delay-200" data-animation="animated zoomIn" src="../../../Site/graphics/layer3.png">
-                     <img class="bs-slider-bg-layer4 delay-225" data-animation="animated zoomIn" src="../../../Site/graphics/layer4.png">
-                     <img class="bs-slider-bg-layer5 delay-250" data-animation="animated zoomIn" src="../../../Site/graphics/layer5.png">
-                     <img class="bs-slider-bg-layer6 delay-275" data-animation="animated zoomIn" src="../../../Site/graphics/layer6.png">
-                     <img class="bs-slider-bg-layer7 delay-300" data-animation="animated zoomIn" src="../../../Site/graphics/layer7.png">
+                     <img class="bs-slider-bg-layer1 delay-150" data-animation="animated zoomIn" src="../../../images/graphics/layer1.png">
+                     <img class="bs-slider-bg-layer2 delay-175" data-animation="animated zoomIn" src="../../../images/graphics/layer2.png">
+                     <img class="bs-slider-bg-layer3 delay-200" data-animation="animated zoomIn" src="../../../images/graphics/layer3.png">
+                     <img class="bs-slider-bg-layer4 delay-225" data-animation="animated zoomIn" src="../../../images/graphics/layer4.png">
+                     <img class="bs-slider-bg-layer5 delay-250" data-animation="animated zoomIn" src="../../../images/graphics/layer5.png">
+                     <img class="bs-slider-bg-layer6 delay-275" data-animation="animated zoomIn" src="../../../images/graphics/layer6.png">
+                     <img class="bs-slider-bg-layer7 delay-300" data-animation="animated zoomIn" src="../../../images/graphics/layer7.png">
                      </div>
 
 

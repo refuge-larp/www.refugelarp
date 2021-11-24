@@ -9,7 +9,7 @@
 
 	<a class="navbar-brand" href="#">
 
-    <img class="img-fluid" src="../../Site/themed-images/logo/Refuge_base_sml.png" alt="Refuge Larp"> </a>
+    <img class="img-fluid" src="../../images/Refuge_base_sml.png" alt="Refuge Larp"> </a>
 
 	<button aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" type="button">
 	<span class="sr-only">Toggle navigation</span>

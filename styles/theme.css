@@ -129,10 +129,10 @@ right:30px;
 	padding: 3.875rem 0 1.875rem 0;
 }
 .footer-black {
-	background: #343B43 url('../graphics/hexagon-bg.png') center center no-repeat;
+	background: #343B43 url('../images/graphics/hexagon-bg.png') center center no-repeat;
 }
 .testimonials-2.section-dark {
-	background: #343B43 url('../graphics/hexagon-bg.png') center center no-repeat;
+	background: #343B43 url('../images/graphics/hexagon-bg.png') center center no-repeat;
 }
 .social-line-black, .subscribe-line-black {
 	z-index: 1;
@@ -179,7 +179,7 @@ i.border-design1::before {
 	transform: translate(-50%, -50%) rotate(0deg);
 	width: 90px;
 	height: 90px;
-	background: url('../graphics/icon-bg-design1.png') center center no-repeat;
+	background: url('../images/graphics/icon-bg-design1.png') center center no-repeat;
 	transition: all .3s ease;
 	line-height: 90px;
 }
@@ -192,7 +192,7 @@ i.border-design2::before {
 	height: 90px;
 	transition: all .3s ease;
 	line-height: 90px;
-	background: url('../graphics/icon-bg-design2.png') center center no-repeat;
+	background: url('../images/graphics/icon-bg-design2.png') center center no-repeat;
 }
 i.border-design3::before {
 	position: absolute;
@@ -203,7 +203,7 @@ i.border-design3::before {
 	height: 90px;
 	transition: all .3s ease;
 	line-height: 90px;
-	background: url('../graphics/icon-bg-design3.png') center center no-repeat;
+	background: url('../images/graphics/icon-bg-design3.png') center center no-repeat;
 }
 i.border-design4::before {
 	position: absolute;
@@ -214,7 +214,7 @@ i.border-design4::before {
 	height: 90px;
 	transition: all .3s ease;
 	line-height: 90px;
-	background: url('../graphics/icon-bg-design4.png') center center no-repeat;
+	background: url('../images/graphics/icon-bg-design4.png') center center no-repeat;
 }
 i.border-design1:hover::before {
 	transform: translate(-50%, -50%) rotate(15deg);
@@ -271,7 +271,7 @@ i.border-design4:hover::before {
 	width: 180px;
 	height: 180px;
 	padding: 5px;
-	background: url('../graphics/border-lg-theme.png') center center no-repeat;
+	background: url('../images/graphics/border-lg-theme.png') center center no-repeat;
 	transition: all .3s ease;
 }
 .info:hover div.icon i.border-lg-theme::before {
@@ -283,7 +283,7 @@ i.border-design4:hover::before {
 	width: 180px;
 	height: 180px;
 	padding: 5px;
-	background: url('../graphics/border-lg-theme.png') center center no-repeat;
+	background: url('../images/graphics/border-lg-theme.png') center center no-repeat;
 }
 /* -----------------------------------------
 :: info titles border artwork
@@ -318,7 +318,7 @@ i.border-design4:hover::before {
 	width: 90px;
 	height: 90px;
 	padding: 5px;
-	background: url('../graphics/border-left-theme.png') center center no-repeat;
+	background: url('../images/graphics/border-left-theme.png') center center no-repeat;
 }
 /* -----------------------------------------
 :: globe background
@@ -331,7 +331,7 @@ i.border-design4:hover::before {
 	right: 0;
 	width: 672px;
 	height: 424px;
-	background: url('../graphics/globe-bg.jpg') center center no-repeat;
+	background: url('../images/graphics/globe-bg.jpg') center center no-repeat;
 	background-size: cover;
 	left: 50%;
 	transform: translateX(-50%);
@@ -354,7 +354,7 @@ i.border-design4:hover::before {
 	left: -190px;
 	right: 0;
 	bottom: 0;
-	background: url('../graphics/card-bg1-left.png') no-repeat center;
+	background: url('../images/graphics/card-bg1-left.png') no-repeat center;
 	overflow: visible;
 }
 .card-bg1-right::before {
@@ -366,7 +366,7 @@ i.border-design4:hover::before {
 	left: -190px;
 	right: 0;
 	bottom: 0;
-	background: url('../graphics/card-bg1-right.png') no-repeat center;
+	background: url('../images/graphics/card-bg1-right.png') no-repeat center;
 	overflow: visible;
 }
 .card-background.masked {
@@ -768,7 +768,7 @@ footer .copyright {
 }
 .client-testimonials-bg {
 	position: relative;
-	background-image: url('../themed-images/pages/clients/client-testimonials-bg.jpg');
+	background-image: url('../images/backgrounds/client-testimonials-bg.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 20px 0px;
@@ -804,7 +804,7 @@ footer .copyright {
 }
 .contact2-contact-bg {
 	position: relative;
-	background-image: url('../themed-images/pages/contact2/contact2-contact-bg.jpg');
+	background-image: url('../images/contact2-contact-bg.jpg');
 	background-position: center top;
 	background-size: cover;
 	margin: 20px 0px;
@@ -1151,7 +1151,7 @@ footer .copyright {
 }
 .section-counter {
 	position: relative;
-	background-image: url('../themed-images/pages/services/section-counter-bg.jpg');
+	background-image: url('../images/section-counter-bg.jpg');
 	background-position: center top;
 	background-size: cover;
 }
@@ -1510,12 +1510,12 @@ ul.menuside li {
 	margin-bottom: -2px;
 }
 .downarrow {
-	background-image: url('../graphics/menu-side-down-arrow.png')!important;
+	background-image: url('../images/graphics/menu-side-down-arrow.png')!important;
 	background-position: right 10px!important;
 	background-repeat: no-repeat!important;
 }
 .downarrow:hover {
-	background-image: url('../graphics/menu-side-down-arrow.png')!important;
+	background-image: url('../images/graphics/menu-side-down-arrow.png')!important;
 	background-position: right -130px!important;
 	background-repeat: no-repeat!important;
 }

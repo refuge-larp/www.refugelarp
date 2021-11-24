@@ -211,7 +211,7 @@
 ----------------------------------------- */
 .parallax-image-a {
 	position: relative;
-	background-image: url('../themed-images/backgrounds/section-bg-a.jpg');
+	background-image: url('../images/backgrounds/section-bg-a.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 20px 0px;
@@ -219,7 +219,7 @@
 }
 .parallax-image-b {
 	position: relative;
-	background-image: url('../themed-images/backgrounds/section-bg-b.jpg');
+	background-image: url('../images/backgrounds/section-bg-b.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 20px 0px;
@@ -227,7 +227,7 @@
 }
 .parallax-image-c {
 	position: relative;
-	background-image: url('../themed-images/backgrounds/section-bg-c.jpg');
+	background-image: url('../images/backgrounds/section-bg-c.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 20px 0px;
@@ -235,7 +235,7 @@
 }
 .parallax-image-d {
 	position: relative;
-	background-image: url('../themed-images/backgrounds/section-bg-d.jpg');
+	background-image: url('../images/backgrounds/section-bg-d.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 20px 0px;
@@ -243,7 +243,7 @@
 }
 .parallax-image-e {
 	position: relative;
-	background-image: url('../themed-images/backgrounds/section-bg-e.jpg');
+	background-image: url('../images/backgrounds/section-bg-e.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 20px 0px;
@@ -251,7 +251,7 @@
 }
 .parallax-image-f {
 	position: relative;
-	background-image: url('../themed-images/backgrounds/section-bg-f.jpg');
+	background-image: url('../images/backgrounds/section-bg-f.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 20px 0px;
@@ -259,7 +259,7 @@
 }
 .parallax-image-g {
 	position: relative;
-	background-image: url('../themed-images/backgrounds/section-bg-g.jpg');
+	background-image: url('../images/backgrounds/section-bg-g.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 20px 0px;
@@ -267,7 +267,7 @@
 }
 .parallax-image-h {
 	position: relative;
-	background-image: url('../themed-images/backgrounds/section-bg-h.jpg');
+	background-image: url('../images/backgrounds/section-bg-h.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 20px 0px;
