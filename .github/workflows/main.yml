@@ -11,7 +11,7 @@ on:
     types: [published]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-    
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -31,7 +31,7 @@ jobs:
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
           # set to dry-run to true to not actually publish but just get a list of what would be published
-          dry-run: true
+          dry-run: false
           exclude: |
             **/.git*
             **/.git*/**
