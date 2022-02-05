@@ -3,11 +3,15 @@ name: Deploy via FTP to external hosting
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
+  #push:
+  #  branches: [ main ]
+  # rather than triggering on push, lets trigger on creating a release
+  # this will let us deploy changes to github-pages staging, and then publish to prod
+  release:
+    types: [published]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
+    
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -19,19 +23,18 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      # Runs a single command using the runners shell
+      # FTP the files up
       - name: Sync Files
         uses: SamKirkland/FTP-Deploy-Action@4.2.0
         with:
           server:   ${{ secrets.ftp_server }}
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
+          # set to dry-run to true to not actually publish but just get a list of what would be published
           dry-run: true
           exclude: |
             **/.git*
             **/.git*/**
             **/node_modules/**
             **/forum/**
-            # excluding the forum path, even though its not checked in to git, since the forum software exists
-
-      
+          # excluding the forum path, even though its not checked in to git, since the forum software exists
