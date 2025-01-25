@@ -1,4 +1,5 @@
 # ignore the forum software
 forum
 .DS_Store
+.idea
 
