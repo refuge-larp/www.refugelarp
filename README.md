@@ -2,7 +2,7 @@
 https://www.refugelarp.org source repository
 
 At the moment, merged changes to "main" are automatically deployed to:
-http://www.refugelarp.staging.rtc.refugelarp.org/
+[https://refuge-larp.github.io/www.refugelarp/](https://refuge-larp.github.io/www.refugelarp/)
 This is a github pages publish of the main branch.
 
 
