@@ -23,27 +23,19 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      # SFTP the files up
-      - name: 📂 Sync Files
-        uses: SamKirkland/web-deploy@v1
+      # FTP the files up
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          target-server: ${{ secrets.ftp_server }}
-          remote-user: ${{ secrets.ftp_username }}
-          private-ssh-key: ${{ secrets.ssh_private_key }}
-          destination-path: ~/refugelarp.org/
-#      # FTP the files up
-#      - name: 📂 Sync files
-#        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-#        with:
-#          server:   ${{ secrets.ftp_server }}
-#          username: ${{ secrets.ftp_username }}
-#          password: ${{ secrets.ftp_password }}
-#          server-dir: refugelarp.org/
-#          # set to dry-run to true to not actually publish but just get a list of what would be published
-#          dry-run: false
-#          exclude: |
-#            **/.git*
-#            **/.git*/**
-#            **/node_modules/**
-#            **/forum/**
-#          # excluding the forum path, even though its not checked in to git, since the forum software exists
+          server:   ${{ secrets.ftp_server }}
+          username: ${{ secrets.ftp_username }}
+          password: ${{ secrets.ftp_password }}
+          server-dir: refugelarp.org/
+          # set to dry-run to true to not actually publish but just get a list of what would be published
+          dry-run: false
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/forum/**
+          # excluding the forum path, even though its not checked in to git, since the forum software exists
