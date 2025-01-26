@@ -16,7 +16,7 @@ To create a new release,
     * Click Publish Release - and the release gets created and the upload Action should happen automatically
   * To see the status of the ftp push, you can examine log under "Actions"
 
-If you'd like to see the whole process in action, you can [watch the process of updating a PDF on refugelarp.org on YouTube]([url](https://youtu.be/sAEIVrRZcig))
+If you'd like to see the whole process in action, you can [watch the process of updating a PDF on refugelarp.org on YouTube](https://youtu.be/sAEIVrRZcig)
 
 Possibly gotchas:
 There is also a /forum directory, not checked in to git, which contains ~6k files from our forum software.
